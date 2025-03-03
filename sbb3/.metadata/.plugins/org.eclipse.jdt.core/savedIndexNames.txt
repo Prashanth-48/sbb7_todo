@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\softwares\eclipse-jee-2022-06-R-win32-x86_64\eclipse\sbb3\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2750716043.index
+3822943016.index
+337057329.index

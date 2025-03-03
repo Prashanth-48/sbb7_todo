@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\softwares\eclipse-jee-2022-06-R-win32-x86_64\eclipse\sbb3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2750716043.index

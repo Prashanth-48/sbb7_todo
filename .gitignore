@@ -1,0 +1,10 @@
+# Ignore Eclipse project files  
+.settings/  
+.classpath  
+.project  
+bin/  
+target/  
+.vscode/  
+logs/  
+tmp/  
+*.log  
